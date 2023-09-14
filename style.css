@@ -1,0 +1,19 @@
+body{
+    color: black;
+    background-color: aquamarine;
+}
+
+.heading{
+    width: 80%;
+    font-size: 24px;
+}
+
+.name_of_object{
+    color: crimson;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
